@@ -27,3 +27,7 @@ $ vi package.json
 ```bash
 $ npm run build
 ```
+
+- `index.html` をブラウザで確認する時のURL
+
+`file://wsl%24/Ubuntu-20.04/home/{ユーザ名}/{リポジトリルート}/try_webpack_bootstrap5/index.html`
